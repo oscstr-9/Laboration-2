@@ -1,0 +1,4 @@
+﻿  lab2lib.cpp
+C:\Users\Oscar\source\repos\Laboration 2\Lab2Lib\lab2lib.cpp(293,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oscar\source\repos\Laboration 2\Lab2Lib\lab2lib.cpp(307,23): warning C4018: '<': signed/unsigned mismatch
+  Lab2Lib.vcxproj -> C:\Users\Oscar\source\repos\Laboration 2\Debug\Lab2Lib.lib

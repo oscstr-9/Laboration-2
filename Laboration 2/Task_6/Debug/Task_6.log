@@ -1,0 +1,5 @@
+﻿  Task6.cpp
+C:\Users\Oscar\source\repos\Laboration 2\Task_6\Task6.cpp(6,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Oscar\source\repos\Laboration 2\Task_6\Task6.cpp(44,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oscar\source\repos\Laboration 2\Task_6\Task6.cpp(58,23): warning C4018: '<': signed/unsigned mismatch
+  Task_6.vcxproj -> C:\Users\Oscar\source\repos\Laboration 2\Debug\Task_6.exe

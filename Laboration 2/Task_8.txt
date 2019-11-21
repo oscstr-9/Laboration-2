@@ -1,0 +1,5 @@
+During this lab i learnt a lot about vectors, case/switch and array handling, espesially 2d arrays.
+The most difficult part about this lab was definitely task 3, which I solved through a lot of 
+googling aswell as trial and error. The critisism I can give for this lab is that the instructions were 
+very much up to interpretation and not very obvious at times. The hardest task to fully understand how to do was
+task 7 and I'm still not sure if i did it the intended way. i probably spent around 28 hours or so on this lab in total.
